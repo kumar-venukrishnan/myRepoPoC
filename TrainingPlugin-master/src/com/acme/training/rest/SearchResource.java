@@ -32,7 +32,7 @@ import sailpoint.tools.GeneralException;
 public class SearchResource {
   // Insert code below this line
 	
-	
+	// Added by Kumar for Eclipse-Git Integration
   // Insert code above this line
 }
 
