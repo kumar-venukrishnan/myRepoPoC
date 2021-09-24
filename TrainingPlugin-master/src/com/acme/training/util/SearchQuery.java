@@ -3,7 +3,7 @@ package com.acme.training.util;
  * Utility class containing the queries performed by the
  * services on the search plugin tables.
  *
- * @author
+ * @author kumar.venukrishnan
  */
 public class SearchQuery {
 	/**
