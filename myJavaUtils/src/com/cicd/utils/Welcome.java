@@ -6,6 +6,9 @@ public class Welcome {
 		System.out.println("Welcome to DevSecOps !!!!!");
 		System.out.println("GitHub - Jenkins Integration is Succesful 2 !!!!!");
 		System.out.println("Next Step to build a jar !!!!!");
-	}
+		
+		if (true) System.out.println("Condition is True"); else 
+			System.out.println("Condition is false");
+		}
 
 }
